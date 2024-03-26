@@ -16,7 +16,7 @@ function App() {
           rel="noopener noreferrer"
           style={{ fontWeight: 'bold' }}
         >
-          Learn React with Avery M.!
+          Learn React with Avery!
         </a>
       </header>
     </div>
