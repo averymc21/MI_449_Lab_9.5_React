@@ -6,9 +6,9 @@ const fashiontrends = [
     {id: 1, title: 'Trench Coats', theme: 'outerwear', isAvailable: true},
     {id: 2, title: 'White Dress', theme: 'dress', isAvailable: true},
     {id: 3, title: 'Pastel Colors', theme: 'Colors', isAvailable: true},
-    {id: 4, title: 'Oversized bags', theme: 'Accessories', isAvailable: true},
+    {id: 4, title: 'Oversized Bags', theme: 'Accessories', isAvailable: true},
     {id: 5, title: 'Slime Green', theme: 'Colors', isAvailable: false},
-    {id: 6, title: 'Psychedelic prints', theme: 'Patterns', isAvailable: false},
+    {id: 6, title: 'Psychedelic Prints', theme: 'Patterns', isAvailable: false},
 
   ];
 
